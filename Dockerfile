@@ -1,4 +1,4 @@
-FROM centos.skywalking.base:0.0.1
+FROM centos:7
 
 WORKDIR /app
 
